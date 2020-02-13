@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T01:35:59.648Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0" etag="o17dmjeEZFe2RREhzvyE" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T01:39:35.924Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0" etag="8hNEtIgp033fnkR-eGYv" version="12.6.8" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1112" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -26,7 +26,7 @@
           <mxGeometry x="670" y="470" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="21540" value="Sticky Clompers" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="527.5" y="233.5" width="40" height="40" as="geometry"/>
+          <mxGeometry x="527.5" y="210" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="k5Q_1SbnG-4EYqc-haiw-21540" value="&lt;div&gt;Rope management&lt;/div&gt;&lt;div&gt;bickering&lt;br&gt;&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="530" y="120" width="40" height="40" as="geometry"/>
@@ -50,7 +50,7 @@
           <mxGeometry x="380" y="130" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21544" value="&lt;div&gt;Trouble relating weekend&lt;/div&gt;&lt;div&gt;to coworkers&lt;br&gt;&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="530" y="263" width="40" height="40" as="geometry"/>
+          <mxGeometry x="530" y="290" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21548" value="&lt;div&gt;Fondness for onesies and&lt;/div&gt;&lt;div&gt;unstylish colors&lt;br&gt;&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="40" height="40" as="geometry"/>
@@ -77,13 +77,13 @@
           <mxGeometry x="781" y="170" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21558" value="&lt;div&gt;Your friends all own&lt;/div&gt;&lt;div&gt;Subarus&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="528" y="320" width="40" height="40" as="geometry"/>
+          <mxGeometry x="527.5" y="350" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21559" value="Hazardous Atmospheres" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="369.5" y="450" width="40" height="40" as="geometry"/>
+          <mxGeometry x="390" y="470" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21560" value="Haul Systems" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="530" y="370" width="40" height="40" as="geometry"/>
+          <mxGeometry x="527.5" y="410" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21561" value="&lt;div&gt;Gear exceeds vehicle value&lt;br&gt;&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="786" y="210" width="44" height="40" as="geometry"/>
@@ -93,6 +93,15 @@
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21563" value="Vehicle has little value" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="280" y="210" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="j7XDGhFaV4TOFL3fgutA-21566" value="Cute goats" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="746" y="420" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="j7XDGhFaV4TOFL3fgutA-21567" value="Cute bats" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="420" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="j7XDGhFaV4TOFL3fgutA-21568" value="Beer" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="527.5" y="248" width="40" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
