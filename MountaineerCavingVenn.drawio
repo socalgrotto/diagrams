@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-13T08:03:53.001Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0" etag="3lF6LtuNe_TMXJDziaEf" version="12.6.8" type="github">
+<mxfile host="www.draw.io" modified="2020-02-13T08:13:10.926Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:71.0) Gecko/20100101 Firefox/71.0" etag="W5D8fg8QmjO3k0SpuAnr" version="12.6.8" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1112" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -23,7 +23,7 @@
           <mxGeometry x="409.5" y="30" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="21539" value="&lt;div&gt;Going up, just to &lt;br&gt;&lt;/div&gt;&lt;div&gt;come down&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="650" y="470" width="40" height="40" as="geometry"/>
+          <mxGeometry x="650" y="30" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="21540" value="Sticky Clompers" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="527.5" y="210" width="40" height="40" as="geometry"/>
@@ -35,27 +35,27 @@
           <mxGeometry x="525.5" y="170" width="44" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="k5Q_1SbnG-4EYqc-haiw-21545" value="Skin Cancer" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="650" y="40" width="40" height="40" as="geometry"/>
+          <mxGeometry x="710" y="160" width="40" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="k5Q_1SbnG-4EYqc-haiw-21546" value="Strange diseases" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="330" y="110" width="40" height="40" as="geometry"/>
+        <mxCell id="k5Q_1SbnG-4EYqc-haiw-21546" value="Weird diseases" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="340" y="160" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="k5Q_1SbnG-4EYqc-haiw-21547" value="Tight spaces" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="260" y="140" width="40" height="40" as="geometry"/>
+          <mxGeometry x="350" y="100" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="k5Q_1SbnG-4EYqc-haiw-21548" value="Unpredictable weather" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="750" y="100" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21543" value="Flooding" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="320" y="70" width="40" height="40" as="geometry"/>
+          <mxGeometry x="240" y="140" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21544" value="&lt;div&gt;Trouble relating weekend&lt;/div&gt;&lt;div&gt;to coworkers&lt;br&gt;&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="310" width="40" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="j7XDGhFaV4TOFL3fgutA-21548" value="&lt;div&gt;Fondness for onesies&lt;br&gt;&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="270" y="190" width="40" height="40" as="geometry"/>
+        <mxCell id="j7XDGhFaV4TOFL3fgutA-21548" value="Unflattering onesies" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="270" y="193.5" width="40" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="j7XDGhFaV4TOFL3fgutA-21550" value="&lt;div&gt;Gear somewhat available &lt;br&gt;&lt;/div&gt;&lt;div&gt;at REI&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="j7XDGhFaV4TOFL3fgutA-21550" value="&lt;div&gt;Gear generally available &lt;br&gt;&lt;/div&gt;&lt;div&gt;at REI&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="781" y="290" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21551" value="Shunned by REI" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
@@ -71,16 +71,16 @@
           <mxGeometry x="440" y="433" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21556" value="Avalanches" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="679.5" y="130" width="40" height="40" as="geometry"/>
+          <mxGeometry x="810" y="140" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21557" value="Rating systems" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="800" y="153.5" width="40" height="40" as="geometry"/>
+          <mxGeometry x="750" y="393" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21558" value="&lt;div&gt;All your friends own&lt;/div&gt;&lt;div&gt;Subarus&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="370" width="40" height="40" as="geometry"/>
         </mxCell>
-        <mxCell id="j7XDGhFaV4TOFL3fgutA-21559" value="Hazardous Atmospheres" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="390" y="470" width="40" height="40" as="geometry"/>
+        <mxCell id="j7XDGhFaV4TOFL3fgutA-21559" value="High CO&lt;sup&gt;2&lt;/sup&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="409.5" y="478.5" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21560" value="Haul systems" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="420" width="40" height="40" as="geometry"/>
@@ -92,10 +92,10 @@
           <mxGeometry x="320" y="393" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21566" value="Cute goats" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="746" y="420" width="40" height="40" as="geometry"/>
+          <mxGeometry x="750" y="430" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21567" value="Cute bats" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="300" y="430" width="40" height="40" as="geometry"/>
+          <mxGeometry x="310" y="430" width="40" height="40" as="geometry"/>
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21568" value="Beer" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="527.5" y="260" width="40" height="40" as="geometry"/>
@@ -105,6 +105,9 @@
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21573" value="Snow" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="630" y="430" width="40" height="40" as="geometry"/>
+        </mxCell>
+        <mxCell id="j7XDGhFaV4TOFL3fgutA-21574" value="Low O&lt;sup&gt;2&lt;/sup&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="650" y="478.5" width="40" height="40" as="geometry"/>
         </mxCell>
       </root>
     </mxGraphModel>
