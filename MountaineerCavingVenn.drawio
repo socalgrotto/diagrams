@@ -1,4 +1,4 @@
-<mxfile host="www.draw.io" modified="2020-02-25T21:36:25.138Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:72.0) Gecko/20100101 Firefox/72.0" etag="1Bf1Q4GsJeoD1LjBcy1Z" version="12.7.6" type="github">
+<mxfile host="www.draw.io" modified="2020-02-25T21:59:54.482Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:72.0) Gecko/20100101 Firefox/72.0" etag="ZOT_d0-X6NHGjMkylRJ2" version="12.7.6" type="github">
   <diagram id="3228e29e-7158-1315-38df-8450db1d8a1d" name="Page-1">
     <mxGraphModel dx="1112" dy="849" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
@@ -79,7 +79,7 @@
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21558" value="&lt;div&gt;All your friends own&lt;/div&gt;&lt;div&gt;Subarus&lt;/div&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="527.5" y="370" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j7XDGhFaV4TOFL3fgutA-21559" value="High CO&lt;sup&gt;2&lt;/sup&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="j7XDGhFaV4TOFL3fgutA-21559" value="High CO&lt;sub&gt;2&lt;/sub&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="409.5" y="478.5" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21560" value="Haul systems" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
@@ -106,7 +106,7 @@
         <mxCell id="j7XDGhFaV4TOFL3fgutA-21573" value="Snow" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="630" y="430" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="j7XDGhFaV4TOFL3fgutA-21574" value="Low O&lt;sup&gt;2&lt;/sup&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="j7XDGhFaV4TOFL3fgutA-21574" value="Low O&lt;sub&gt;2&lt;/sub&gt;" style="text;align=center;html=1;fontColor=#FFFFFF;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="650" y="478.5" width="40" height="40" as="geometry" />
         </mxCell>
       </root>
